@@ -1,5 +1,6 @@
 Nama: Muhammad Deny Azes Saputra
 Kelas: TI B
+NIM:TI22250028
 
 Penjelasan Kode Tugas UTS Modeling: Prediksi Kelulusan Mahasiswa
 Di tugas ini saya membuat model machine learning untuk memprediksi apakah seorang mahasiswa akan lulus atau gagal. Langkah kerjanya mengikuti alur CRISP-DM: memahami data, membersihkan dan mengeksplorasinya, menyiapkan data, membuat model, mengevaluasi, lalu mencoba model pada data baru.
